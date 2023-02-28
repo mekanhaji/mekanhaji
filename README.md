@@ -11,5 +11,5 @@
 
 ---
 Fill like to talk, Cantect with me on
-- [Linkdin](mekanhaji.com)
-- [Twitter](mekanhaji.com)
+- [LinkedIn](https://www.linkedin.com/in/mekanhaji/)
+- [Twitter](https://twitter.com/mekanhaji)
