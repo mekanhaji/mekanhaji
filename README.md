@@ -10,6 +10,6 @@
 - BackEnd FramWork: `Flask`
 
 ---
-Fill like to talk, Cantect with me on
+Fill like to talk, Connect with me on
 - [LinkedIn](https://www.linkedin.com/in/mekanhaji/)
 - [Twitter](https://twitter.com/mekanhaji)
