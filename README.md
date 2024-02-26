@@ -1,16 +1,7 @@
 ### Hi there 👋
 
-> A FrontEnd Developer From Gujarat, India🇮🇳.
+I'm Kanhaiya Jha, A FullStack Developer from Gujarat, India 🇮🇳. I love creating webapps and having fun while doing it (☞ﾟヮﾟ)☞.
 
-> Can Make Website and Fun of U(☞ﾟヮﾟ)☞.
-
- A genius who Knows
-- Essential Skills: `HTML` `CSS` `JS`
-- Front End Library: `React` `jQuery`
-- Programming Languages: `Python` `JavaScript`
-- Database: `SQLite` `Firebase` `MongoDB`
-
----
-Fill like to talk, Connect with me on
-- [LinkedIn](https://www.linkedin.com/in/mekanhaji/)
-- [Twitter](https://twitter.com/mekanhaji)
+Feel free to reach out to me or connect on:
+- 📫 [LinkedIn](https://www.linkedin.com/in/mekanhaji/)
+- 🐦 [Twitter](https://twitter.com/mekanhaji)
