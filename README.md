@@ -1,39 +1,27 @@
-### Hey there, I'm Kanhaiya Jha! 👋 
-*FullStack Developer | Web App Dev*  
-Based in Gujarat, India 🇮🇳
+Hi, I’m kanhaji 👋
 
----
+I build small web apps and tools. Most of them start as “quick ideas” and somehow turn into full projects.
 
-🚀 **About Me**  
-I'm a FullStack developer with a love for creating interactive, user-friendly web applications and exploring new technologies. Whether it's building APIs, designing responsive UIs, or diving into backend logic, I enjoy every part of the journey. And yes, I believe coding is more fun when you add a little creativity! (☞ﾟヮﾟ)☞
+Right now I’m working on:
 
----
+🧠 QuizWhiz (an offline-first quiz app)
+[![View QuizWhiz](https://img.shields.io/badge/View%20Project-000?style=flat-square\&logo=github)](https://github.com/mekanhaji/QuizWhiz)
 
-🌟 **Things I’m Skilled In**
-- **Languages**: JavaScript, TypeScript, Python
-- **Frontend**: React, Vue, Angular, HTML, CSS, Tailwind
-- **Backend**: Node.js, Express, Flask
-- **Database**: MongoDB, MySQL, PostgreSQL
-- **Tools & Others**: Git, REST APIs, Cloud (AWS, Firebase)
+🎯 Notebook Bingo (a multiplayer browser game)
+[![View Notebook Bingo](https://img.shields.io/badge/View%20Project-000?style=flat-square\&logo=github)](https://github.com/mekanhaji/notebook-bingo)
 
----
+📋 Clip-it-up (a simple way to share clipboard data across devices)
+[![View Clip-it-up](https://img.shields.io/badge/View%20Project-000?style=flat-square\&logo=github)](https://github.com/mekanhaji/clip-it-up)
 
-🔭 **What I’m Working On**
-- I'm learning `Go-lang` to explore new possibilities for my REST API development.
-- I'm currently brushing up on my C programming skills by creating a fun little game [BrainBuster](https://github.com/mekanhaji/BrainBuster) 
+I’ve also built things like:
 
----
+🎨 Palette (a CLI tool for extracting color palettes from images)
+[![View Palette](https://img.shields.io/badge/View%20Project-000?style=flat-square\&logo=github)](https://github.com/mekanhaji/palette)
 
-🌱 **What I’m Learning Next**
-- Looking to dive deeper into **distributed systems** and gain a deeper understanding of **networks**.
-- Experimenting with **AI/ML tools** to integrate into web applications.
+Plus a bunch of smaller utilities that were supposed to stay small.
 
----
+I’m mostly interested in backend systems, APIs, and figuring out how things work under the hood. Lately trying to spend more time outside the comfort zone of just React.
 
-📫 **Let’s Connect!**
-- [LinkedIn](https://linkedin.com/in/mekanhaji) | [Twitter](https://x.com/mekanhaji)
+Still learning, still building, occasionally rewriting things that worked perfectly fine the first time 😅.
 
----
-
-⚡ **My Motto**  
-*"Build with passion, code with purpose."*
+ [![View All Repositories](https://img.shields.io/badge/View%20All%20Repos-000?style=for-the-badge\&logo=github)](https://github.com/mekanhaji?tab=repositories)
